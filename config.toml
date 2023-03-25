@@ -3,6 +3,8 @@ languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
 ignoreFiles = [ "LICENSE$" ]
+disqusShortname = 'yourDisqusShortname'
+
 
 [params]
   # dir name of your blog content (default is `content/posts`).
