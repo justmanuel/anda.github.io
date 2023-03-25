@@ -7,6 +7,3 @@ draft: false
 Hello this is to see if GitHub Actions works on my website if it does, thats is great. Been troubleshooting for an hour now.
 
 ![GitHub Actions](/ghactions.png)
-
-
-{{ template "_internal/disqus.html" . }}
