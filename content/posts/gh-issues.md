@@ -1,7 +1,11 @@
 ---
 title: "Gh Issues"
+description: "Issues faced when deplying to GitHub"
 date: 2023-04-09T16:30:44-04:00
 draft: false
+tags:
+  - "windows"
+  - "gitbash"
 ---
 
 Hello, this page is to track issues I had along the way with deploying my website using GoHugo with cloudflare and github/pages.
