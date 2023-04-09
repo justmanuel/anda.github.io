@@ -16,7 +16,7 @@ I got a few warnings:
 
 ``` found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination. ```
 
-However, the template and website were both both working and could be seen in my GitHub repo. I luckily turned to good ole Google and found a comment stating that it would be from submodules not being cloned along with the repo.
+However, the template and website were both working properly and could be seen in my GitHub repo. I luckily turned to good ole Google and found a comment stating that it would be from submodules not being cloned along with the repo.
 
 I used:
 
