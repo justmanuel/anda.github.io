@@ -4,8 +4,7 @@ theme = "hello-friend"
 paginate = 5
 ignoreFiles = [ "LICENSE$" ]
 disqusShortname = 'manuelanda-com'
-
-
+unsafe = true
 
 [params]
   # dir name of your blog content (default is `content/posts`).
