@@ -13,7 +13,6 @@ tags:
 # H1 Mob Pyscho Season 3 Trailer!
 <iframe width="600" height="600" src="https://www.youtube.com/embed/Ah7lTT-NKMw" frameborder="0" allowfullscreen></iframe>
 
-{{< youtube  1200 1200>}}
 
 ## Mob Pyscho Season 1 & 2 Recap :\)
 <iframe width="600" height="600" src="https://www.youtube.com/embed/GKtOCNYdSjc" frameborder="0" allowfullscreen></iframe>
