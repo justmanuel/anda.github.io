@@ -11,11 +11,12 @@ tags:
 ![Anime Night](/anime_club.jpg)
 
 # H1 Mob Pyscho Season 3 Trailer!
-{{< youtube Ah7lTT-NKMw 600 600>}}
+{{< youtube Ah7lTT-NKMw 1200 1200>}}
 
 ## Mob Pyscho Season 1 & 2 Recap :\)
-{{< youtube GKtOCNYdSjc 600 600>}}
+{{< youtube GKtOCNYdSjc 1200 1200>}}
 
+### Schedule for Anime Nights
 {{< html >}}
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FCancun&mode=AGENDA&showTitle=0&showPrint=0&showTabs=1&showCalendars=0&src=Y2xvdWRzZWVraW5naW5mb0BnbWFpbC5jb20&color=%23039BE5" style="border:solid 1px #777" width="600" height="600" frameborder="0" scrolling="no"></iframe>
 {{< /html >}}
