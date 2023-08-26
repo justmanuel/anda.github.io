@@ -9,6 +9,8 @@ tags:
 ---
 
 ![Anime Night](/anime_club.jpg)
+## Listen while you scroll
+{{< spotify type="playlist" id="5Y4sYnYBdZRiuV64yFPZ1m" width="100%" height="250" >}}
 
 ## H1 Mob Pyscho Season 3 Trailer!
 {{< html >}}
