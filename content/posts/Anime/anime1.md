@@ -19,7 +19,7 @@ tags:
 
 ## Mob Pyscho Season 1 & 2 Recap :\)
 {{< html >}}
-<iframe <div class ="responsive-video" width="600" height="600" src="https://www.youtube.com/embed/GKtOCNYdSjc?si=YRBHbZGUqg4gqa1j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class = "response-video" width="600" height="600" src="https://www.youtube.com/embed/GKtOCNYdSjc?si=YRBHbZGUqg4gqa1j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 {{< /html >}}
 ## Anime Night Schedule
 {{< html >}}
