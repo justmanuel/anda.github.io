@@ -10,10 +10,10 @@ tags:
 
 ![Anime Night](/anime_club.jpg)
 
-<H1 Mob Pyscho Season 3 Trailer!</h1>
+<h1 Mob Pyscho Season 3 Trailer!</h1>
 {{< youtube Ah7lTT-NKMw >}}
 
-<H1 Mob Pyscho Season 1 & 2 Recap :) </h1>
+<h1 Mob Pyscho Season 1 & 2 Recap :)</h1>
 {{< youtube GKtOCNYdSjc >}}
 
 {{< html >}}
