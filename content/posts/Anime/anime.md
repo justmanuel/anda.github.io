@@ -1,6 +1,6 @@
 ---
-title: "Anime Night 1"
-description: "Issues faced when deplying to GitHub"
+title: "Anime Night"
+description: "Anime Night With Friends"
 date: 2023-07-10T21:02:57-04:00
 draft: false
 tags:
@@ -10,7 +10,7 @@ tags:
 
 ![Anime Night](/anime_club.jpg)
 ## Listen while you scroll
-{{< spotify type="playlist" id="5Y4sYnYBdZRiuV64yFPZ1m" width="100%" height="250" >}}
+{{< spotify type="playlist" id="5Y4sYnYBdZRiuV64yFPZ1m" width="80%" height="250" >}}
 
 ## H1 Mob Pyscho Season 3 Trailer!
 {{< youtube-enhanced Ah7lTT-NKMw >}}
