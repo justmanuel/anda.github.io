@@ -1,0 +1,26 @@
+---
+title: "Anime Night"
+description: "Anime Night With Friends"
+date: 2023-07-10T21:02:57-04:00
+draft: false
+tags:
+  - "anime"
+  - "night"
+---
+
+![Anime Night](/anime_club.jpg)
+## Listen while you scroll
+{{< spotify type="playlist" id="5Y4sYnYBdZRiuV64yFPZ1m" width="80%" height="250" >}}
+
+## H1 Mob Pyscho Season 3 Trailer!
+{{< youtube-enhanced Ah7lTT-NKMw >}}
+
+## Mob Pyscho Season 1 & 2 Recap :\)
+{{< youtube-enhanced GKtOCNYdSjc >}}
+
+## Anime Night Schedule
+{{< html >}}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe title="Anime Night Schedule" src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FCancun&mode=AGENDA&showTitle=0&showPrint=0&showTabs=1&showCalendars=0&src=Y2xvdWRzZWVraW5naW5mb0BnbWFpbC5jb20&color=%23039BE5" style="border:solid 1px #777" width="600" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+{{< /html >}}

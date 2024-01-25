@@ -6,7 +6,6 @@ ignoreFiles = [ "LICENSE$" ]
 disqusShortname = 'failedcommits-com'
 
 
-
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
