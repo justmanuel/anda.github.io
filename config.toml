@@ -1,9 +1,9 @@
-baseURL = "https://manuelanda.com"
+baseURL = "https://failedcommits.com"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
 ignoreFiles = [ "LICENSE$" ]
-disqusShortname = 'manuelanda-com'
+disqusShortname = 'failedcommits-com'
 
 
 
@@ -32,11 +32,11 @@ disqusShortname = 'manuelanda-com'
 
 [languages]
   [languages.en]
-    title = "Manuel Anda"
+    title = "Manuel"
     subtitle = "Cloud Engineer and Computer Enthusiast"
     keywords = ""
-    description = "Manuel Anda - Cloud Engineer and Computer Enthusiast."
-    copyright = "<p>Copyright © 2023 Manuel Anda</p><p xmlns:dct='http://purl.org/dc/terms/' xmlns:cc='http://creativecommons.org/ns#' class='license-text'><a licensed under <a rel='license' href='https://creativecommons.org/licenses/by/4.0'>CC BY 4.0</a></p>"
+    description = "Manuel - Cloud Engineer and Computer Enthusiast."
+    copyright = "<p>Copyright © 2023 FailedCommits</p><p xmlns:dct='http://purl.org/dc/terms/' xmlns:cc='http://creativecommons.org/ns#' class='license-text'><a licensed under <a rel='license' href='https://creativecommons.org/licenses/by/4.0'>CC BY 4.0</a></p>"
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read more"
@@ -50,7 +50,7 @@ disqusShortname = 'manuelanda-com'
     #lastModDisplay = "modified"
 
     [languages.en.params.logo]
-      logoText = "manuelanda.com"
+      logoText = "failedcommits.com"
       logoHomeLink = "/"
     # or
     #
